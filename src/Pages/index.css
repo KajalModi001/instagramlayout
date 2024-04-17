@@ -1,0 +1,213 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+.fullcontainer
+{
+    /* background-color: hotpink; */
+    display: flex;
+}
+
+.instagrammenu
+{
+    width: 16%;
+    /* background-color: teal; */
+    display: flex;
+    padding-left: 1.5%;
+    padding-top: 2%;
+    flex-direction: column; 
+}
+
+.mainlogo
+{
+    width: 50%;
+    height: 100%;
+    cursor: pointer;
+    /* filter: invert(); */
+    mix-blend-mode: multiply;
+}
+a 
+{
+    color: #000;
+    text-decoration: none;
+}
+.menufont
+{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, Helvetica, sans-serif !important;
+  font-size: 1.1rem !important;
+  line-height: 1.1rem !important;
+  cursor: pointer;
+  padding-top: 11%; 
+  padding-left: 1%;
+ 
+  /* color: red; */
+  /* color: #FFFFFF; */
+}
+
+.profilelogo
+{
+    border-radius: 50%;
+    height: 1.5rem !important;
+    width: 1.5rem !important;
+}
+
+.nextpart
+{
+    width: 70%;
+    padding-top: 20%;
+    display: flex;
+    flex-direction: column;
+    /* background-color: grey; */
+}
+
+.menufont1
+{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, Helvetica, sans-serif !important;
+  font-size: 1.1rem !important;
+  line-height: 1.1rem !important;
+  cursor: pointer;
+  padding-top: 11%;
+  /* color: #FFFFFF; */
+}
+
+.feedbase
+{
+    /* background-color: darkolivegreen; */
+    width: 53%;
+    padding-top: 1.5%;
+}
+
+.feed
+{
+    /* background-color: firebrick; */
+    padding-top: 2%;
+    display: flex !important;
+    padding-left: 8%;
+    display: flex;
+}
+
+.profileimg
+{
+    width: 4rem !important;
+    height: 4rem !important;
+    cursor: pointer;
+    border-radius: 100% !important;
+    display: flex;
+}
+
+.profiletext
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, Helvetica, sans-serif !important;
+    font-size: 1rem;
+   
+    justify-content: center;
+    /* color: #FFFFFF; */
+}
+
+.feedpost
+{
+    padding-left: 20%;
+    padding-right: 13%;
+    padding-top: 4%;
+}
+
+.profilename
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.postimg
+{
+    border-radius: 50%;
+    height: 2.5rem !important;
+    width: 2.5rem !important;
+}
+
+.postname
+{
+    font-size: 1rem !important;
+    padding-left: 2%;
+    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, Helvetica, sans-serif !important;
+    padding-top: 1%;
+    font-weight: 550;
+    /* color: #FFFFFF; */
+}
+.time
+{
+    font-size: 1rem !important;
+    padding-left: 2%;
+    padding-top: 1%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, Helvetica, sans-serif !important;
+    color: #737373;
+}
+
+.postsetting
+{
+    padding-top: 2%;
+    padding-left: 51%;
+    font-size: 1rem !important;
+    /* color: #FFFFFF; */
+}
+
+.postcontent
+{
+    border: #A8A8A8 normal;
+}
+
+.iconsection
+{
+    width: 100%;
+    /* color: #FFFFFF; */
+    font-size: 1.5rem;
+    display: flex; 
+    flex-direction: row;
+    padding-top: 1.5%; 
+}
+
+.likeicon
+{
+    padding-left: 1%;
+}
+
+.commenticon
+{
+    padding-left: 3%;
+}
+
+.shareicon
+{
+    padding-left: 3%;
+}
+
+.saveicon
+{
+    padding-left: 75%;
+}
+.likecomment
+{
+    display: flex;
+    flex-direction: row;
+}
+.likeprofile
+{
+    height: 1.4rem;
+    width: 1.4rem;
+    border-radius: 50%;
+}
+.likedby
+{
+ 
+    padding-left: 1%;
+    font-size: 1rem;
+    font-weight: 525;
+}
+.suggestion
+{
+    width: 31%;
+    /* background-color: salmon; */
+}

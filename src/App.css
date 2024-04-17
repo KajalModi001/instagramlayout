@@ -1,0 +1,174 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.maincontainer
+{
+  margin-top: 5%;
+  display: flex;
+  /* background-color: hotpink; */
+  flex-direction: column;
+  padding-top: 0.5%;
+ 
+
+}
+.carddata {
+  width: 22rem;
+  margin: 0 auto;
+ 
+}
+.img
+{
+
+  padding-top: 7%;
+  cursor: pointer;
+  width: 50% !important;
+  height: 50%;
+  margin: 0 auto;
+}
+.inputbox
+{
+  font-size: 0.8rem !important;
+  line-height: 1.1rem !important;
+  width: 100% !important;
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, Helvetica, sans-serif !important;
+  color: #000000 !important;
+  background-color: #FAFAFA !important;
+}
+.loginbutton
+{
+  
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  background-color: #5faaff !important;
+}
+
+.line-container {
+  display: flex;
+  align-items: center;
+  padding-top: 5%;
+}
+
+.line {
+  flex-grow: 1;
+  
+}
+
+.text {
+  margin: 0 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #737373;
+  
+}
+.facebooklogo
+{
+  height: 15% !important;
+  width: 7% !important; 
+  
+}
+.facebooktext
+{
+  color: #385185; 
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+  padding-left: 27%;
+}
+.forgottext
+{
+  color: #00376B; 
+  cursor: pointer; 
+  font-size: 12px;
+  padding-left: 37%;
+}
+/* .partcontainer
+{
+  display: flex;
+  margin: 0 auto;
+  padding-top: 1%;
+ 
+} */
+.cardcontainer
+{
+  margin: 0 auto;
+  width: 22rem;
+  padding: 1.5%;
+  align-items: center;
+  font-size: 0.9rem;
+  line-height: 1.2rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+/* background-color: teal; */
+}
+.appcontainer
+{
+  margin: 0 auto;
+  width: 23%;
+  align-items: center;
+  border: none !important;
+  font-size: 14px;
+  line-height: 18px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+/* background-color: darkblue; */
+}
+
+.partcontainer1
+{
+  display: flex;
+  width: 100%;
+  /* background-color: lightcoral; */
+  padding-top: 1%;
+}
+.partcontainer2
+{
+  display: flex;
+  width: 100%;
+  
+  padding-top: 1% ;
+  /* background-color: greenyellow; */
+  
+}
+.appcontainerimg
+{
+  margin: 0 auto;
+  width: 23%;
+  border: none !important;
+  cursor: pointer;
+  
+  display: flex;
+  padding-left: 3%;
+  
+/* 
+  background-color: lawngreen; */
+}
+.imgapp
+{
+ 
+  width: 40% !important;
+  height: 100% !important;
+  margin: 0 auto !important;
+}
+/* 
+.navcenter
+{
+  display: flex;
+}
+.navlink
+{
+  font-size: 1.5rem;
+  justify-content: flex-end;
+  padding-left: 6%;
+  margin-left: 4%;
+  font-family: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif';
+  font-weight: 200;
+  text-decoration: none;
+  color:#27b7b4;
+}
+.imgheader
+{
+  width: 15%;
+} */
